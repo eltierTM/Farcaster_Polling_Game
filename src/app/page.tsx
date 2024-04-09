@@ -1,5 +1,5 @@
 import React from 'react';
-import NFTVote from '/Users/eltier/Desktop/Farcaster_Tests/nft-polling-game/components/NFTVote.js'; // Adjust the path based on your file structure
+import NFTVote from '../../components/NFTVote';
 
 export default function Home() {
   return (
