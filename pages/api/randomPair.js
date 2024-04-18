@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const url = "https://api.reservoir.tools/tokens/v7?collection=0xc143bbfcdbdbed6d454803804752a064a622c1f3%3A0%3A665";
+  const url = "https://api-base.reservoir.tools/tokens/v7?collection=0x424d781e0163b5a42ca2f27d036c2d5c561022c3";
 
   const headers = {
     "Accept": "*/*",
